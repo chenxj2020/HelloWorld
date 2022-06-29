@@ -1,0 +1,41 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: About
+  menu: # Dropdown menu (one level deep only)
+  - text: Introduction of MAP
+    href: /about
+  - text: Working group
+    href: /AboutGroup
+  - text: Contact us
+    href: /Contact us/
+- text: Data
+  menu: # Dropdown menu (one level deep only)
+  - text: GBIF：Asia
+    href: /data
+  - text: MAP：Central Asia
+    href: /Central Asia/
+  - text: MAP：Southeast Asia
+    href: /Southeast Asia/
+  - text: MAP：South Asia
+    href: /South Asia/
+  - text: MAP：Northeast Asia
+    href: /Northeast Asia/
+  - text: MAP：Southwest Asia
+    href: /Southwest Asia/
+  - text: MAP：North Asia
+    href: /North Asia/
+- text: Literatures
+  href: /Literature/
+- text: News
+  href: /news/
+- text: Documents
+  menu: # Dropdown menu (one level deep only)
+  - text: PPTs
+    href: /PPTs/
+  - text: Videos
+    href: https://hp-base-theme.gbif-staging.org/
+  - text: Files
+    href: /test/1.htm/
+#  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+#  - text: "Files" # Title for block of menu items
+  
